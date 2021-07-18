@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/sakshi-kst/Operationalize-an-ML-Microservice-API/tree/master.svg?style=svg)](https://circleci.com/gh/sakshi-kst/Operationalize-an-ML-Microservice-API/tree/master)
 
 ## Project Overview
 
